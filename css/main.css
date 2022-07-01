@@ -151,8 +151,9 @@ header .navbar ul li a:hover {
   padding: 1rem 0;
 }
 .home img {
-  height: 80%;
-  width: 80%;
+  height: 30%;
+  width: 30%;
+  top: 0px;
   position: relative;
   -webkit-animation: 4s linear 0s infinite alternate move;
   animation: 4s linear 0s infinite alternate move;
